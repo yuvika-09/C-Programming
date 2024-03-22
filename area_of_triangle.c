@@ -1,4 +1,4 @@
-// find area of triangle where sides are input by user
+// find area of triangle where sides are input by the user
 
 #include<stdio.h>
 #include<math.h>
