@@ -1,3 +1,5 @@
+//fibonacci series of alphabets when the first tern is a and second is b
+
 #include<stdio.h>
 #include<string.h>
 void main(){
