@@ -1,3 +1,5 @@
+//conactenate the two strings entered by the user
+
 #include<stdio.h>
 #include<strings.h>
 void main(){
