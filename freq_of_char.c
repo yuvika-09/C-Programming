@@ -1,3 +1,5 @@
+//to find the frequency of the character the user want to find
+
 #include<stdio.h>
 void main(){
     char s[30],a;
