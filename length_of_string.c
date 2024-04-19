@@ -1,3 +1,5 @@
+//to find the length of a string unput by the user
+
 #include<stdio.h>
 #include<strings.h>
 void main(){
